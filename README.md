@@ -1,6 +1,6 @@
 # QR-code-component
 
- # Front-end Style Guide
+ HTML5 CSS3
 
 ## Layout
 
